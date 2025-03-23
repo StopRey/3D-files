@@ -1,0 +1,11 @@
+Model Information:
+* title:	DAY14: VEGETABLES
+* source:	https://sketchfab.com/3d-models/day14-vegetables-c82dc27d323b4c8294488345fe41866e
+* author:	binrong (https://sketchfab.com/binrong)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "DAY14: VEGETABLES" (https://sketchfab.com/3d-models/day14-vegetables-c82dc27d323b4c8294488345fe41866e) by binrong (https://sketchfab.com/binrong) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
